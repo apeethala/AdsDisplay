@@ -1,0 +1,30 @@
+html {
+    font-family: "Montserrat", sans-serif;
+  }
+  body {
+    padding: 0 16px;
+    background-color: #d9d9d9;
+    background-image: url("https://www.transparenttextures.com/patterns/black-thread.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  }
+  .search{
+  margin-left: 40%;
+    margin-top: 10%;
+  }
+
+  label{
+    color:rgb(29, 2, 19);
+    font-size: larger;
+  }
+  .autosearch{
+background-color: antiquewhite;
+width: 40%;
+  }
+  .autosearch:hover{
+    background-color: #d9d9d9;
+  }
+  .card-title{
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+  }
